@@ -1,0 +1,14 @@
+{
+  "name": "lab2-js-frameworks",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
